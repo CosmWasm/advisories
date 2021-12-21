@@ -42,7 +42,7 @@ logo(s)
 
 -->
 
-## Notification chains
+## Notification list
 
 Add your project here via a PR if you want to get notified.
 
