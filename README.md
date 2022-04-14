@@ -50,5 +50,5 @@ Add your project here via a PR if you want to get notified.
 | -------------- | -------------------------------------------------------------------------------- |
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)     |
 | Provenance     | [SECURITY.md](https://github.com/provenance-io/provenance/blob/main/SECURITY.md) |
-| Stargaze       | [SECURITY.md](https://github.com/public-awesome/stargaze/blob/main/SECURITY.md)  |
 | Secret Network | [SECURITY.md](https://github.com/scrtlabs/SecretNetwork/blob/master/SECURITY.md) |
+| Stargaze       | [SECURITY.md](https://github.com/public-awesome/stargaze/blob/main/SECURITY.md)  |
