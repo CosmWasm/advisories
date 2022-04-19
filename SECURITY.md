@@ -1,5 +1,14 @@
 # Security Policy
 
+This is a shared security policy for the CosmWasm stack, including the following repositories:
+
+- [cosmwasm](https://github.com/CosmWasm/cosmwasm)
+- [wasmvm](https://github.com/CosmWasm/wasmvm)
+- [wasmd](https://github.com/CosmWasm/wasmd)
+- [cw-plus](https://github.com/CosmWasm/cw-plus)
+- [rust-optimizer](https://github.com/CosmWasm/rust-optimizer)
+- [serde-json-wasm](https://github.com/CosmWasm/serde-json-wasm)
+
 ## Reporting a Vulnerability
 
 Please report any security issues via email to security@confio.gmbh.
