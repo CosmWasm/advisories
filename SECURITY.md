@@ -19,11 +19,11 @@ Please avoid opening public issues on GitHub that contain information about a po
 
 ## Supported Versions
 
-This is alpha software, do not run on a production system. Notably, we currently provide no migration path not even "dump state and restart" to move to future versions.
+The supported versions are described in more detail in the individual repositories. This is a summary:
 
-We will have a stable v0.x version before the final v1.0.0 version with the same API as the v1.0 version in order to run last testnets and manual testing on it. We have not yet committed to that version number. wasmd 0.22 will support Cosmos SDK 0.44/0.45 and should be quite close to a final API, minus some minor details.
-
-Our v1.0.0 release plans were also delayed by upstream release cycles, and we have continued to refine APIs while we can.
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm): 1.x
+- [wasmvm](https://github.com/CosmWasm/wasmvm): 1.x
+- [wasmd](https://github.com/CosmWasm/wasmd): 1.x
 
 ## Coordinated Vulnerability Disclosure Policy
 
