@@ -1,5 +1,14 @@
 # Security Policy
 
+This is a shared security policy for the CosmWasm stack, including the following repositories:
+
+- [cosmwasm](https://github.com/CosmWasm/cosmwasm)
+- [wasmvm](https://github.com/CosmWasm/wasmvm)
+- [wasmd](https://github.com/CosmWasm/wasmd)
+- [cw-plus](https://github.com/CosmWasm/cw-plus)
+- [rust-optimizer](https://github.com/CosmWasm/rust-optimizer)
+- [serde-json-wasm](https://github.com/CosmWasm/serde-json-wasm)
+
 ## Reporting a Vulnerability
 
 Please report any security issues via email to security@confio.gmbh.
@@ -10,11 +19,11 @@ Please avoid opening public issues on GitHub that contain information about a po
 
 ## Supported Versions
 
-This is alpha software, do not run on a production system. Notably, we currently provide no migration path not even "dump state and restart" to move to future versions.
+The supported versions are described in more detail in the individual repositories. This is a summary:
 
-We will have a stable v0.x version before the final v1.0.0 version with the same API as the v1.0 version in order to run last testnets and manual testing on it. We have not yet committed to that version number. wasmd 0.22 will support Cosmos SDK 0.44/0.45 and should be quite close to a final API, minus some minor details.
-
-Our v1.0.0 release plans were also delayed by upstream release cycles, and we have continued to refine APIs while we can.
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm): 1.x
+- [wasmvm](https://github.com/CosmWasm/wasmvm): 1.x
+- [wasmd](https://github.com/CosmWasm/wasmd): 1.x
 
 ## Coordinated Vulnerability Disclosure Policy
 
@@ -30,10 +39,14 @@ Confio uses the following disclosure process for the various CosmWasm-related re
 
 - Once a security report is received, the core development team works to verify the issue.
 - Patches are prepared for eligible releases in private repositories.
-- We notify the community that a security release is coming, to give users time to prepare their systems for the update. Notifications can include Discord messages, tweets, and emails to partners and validators. Please also see [CosmWasm/advisories](https://github.com/CosmWasm/advisories) if you want to receive notifications.
-- No less than 24 hours following this notification, the fixes are applied publicly and new releases are issued.
+- We notify the community that a security release is coming, to give users time to prepare their systems for the update.
+  - The notification contains the release date and time (72-24 hours after the notification).
+  - The notification contains as little information as possible, to make it hard for attackers to guess where to search. However, depending on the situation it may contain additional information such as whether the patch will be consensus breaking, or if chains with permissioned CosmWasm integration are equally affected as permissionless chains.
+  - The projects on the [notification list](https://github.com/CosmWasm/advisories#notification-list) are informed first. Please add yourself via a PR if you want to receive notifications.
+  - Right after that the notification is publicly broadcast, including Discord messages, tweets, and emails to partners and validators.
+- The fixes are applied publicly and new releases are issued.
 - Once releases are available, we notify the community, again, through the same channels as above.
-- Once the patches have been properly rolled out, we will publish a post with further details on the vulnerability as well as our response to it.
+- Once the patches have been properly rolled out and no earlier than 7 days after the release, we will publish a post with further details on the vulnerability as well as our response to it.
 - Note that we are working on a concept for bug bounties and they are not currently available.
 
 This process can take some time. Every effort will be made to handle the bug as quickly and thoroughly as possible. However, it's important that we follow the process described above to ensure that disclosures are handled consistently and to keep this codebase and the projects that depend on them secure.
