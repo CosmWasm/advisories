@@ -47,7 +47,7 @@ logo(s)
 Add your project here via a PR if you want to get notified.
 
 | Project name   | SECURITY.md                                                                              |
-|----------------|------------------------------------------------------------------------------------------|
+| -------------- | ---------------------------------------------------------------------------------------- |
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)             |
 | Nym            | [SECURITY.md](https://github.com/nymtech/nym/blob/develop/SECURITY.md)                   |
 | Persistence    | [SECURITY.md](https://github.com/persistenceOne/persistenceCore/blob/master/SECURITY.md) |
