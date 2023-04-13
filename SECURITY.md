@@ -2,12 +2,18 @@
 
 This is a shared security policy for the CosmWasm stack, including the following repositories:
 
-- [cosmwasm](https://github.com/CosmWasm/cosmwasm)
-- [wasmvm](https://github.com/CosmWasm/wasmvm)
-- [wasmd](https://github.com/CosmWasm/wasmd)
-- [cw-plus](https://github.com/CosmWasm/cw-plus)
-- [rust-optimizer](https://github.com/CosmWasm/rust-optimizer)
-- [serde-json-wasm](https://github.com/CosmWasm/serde-json-wasm)
+- Execution environment
+  - [cosmwasm]
+  - [wasmvm]
+  - [wasmd]
+- Standard library dependencies
+  - [serde-json-wasm]
+- Libraries for building contracts
+  - [cw-plus]
+  - [cw-storage-plus]
+  - [cw-utils]
+- Build tools
+  - [rust-optimizer]
 
 ## Reporting a Vulnerability
 
@@ -21,9 +27,10 @@ Please avoid opening public issues on GitHub that contain information about a po
 
 The supported versions are described in more detail in the individual repositories. This is a summary:
 
-- [CosmWasm](https://github.com/CosmWasm/cosmwasm): 1.x
-- [wasmvm](https://github.com/CosmWasm/wasmvm): 1.x
-- [wasmd](https://github.com/CosmWasm/wasmd): 1.x
+- [cosmwasm] 1.x
+- [wasmvm] 1.x
+- [wasmd] 1.x
+- [cw-plus], [cw-storage-plus], [cw-utils] 1.x
 
 ## Coordinated Vulnerability Disclosure Policy
 
@@ -50,3 +57,12 @@ Confio uses the following disclosure process for the various CosmWasm-related re
 - Note that we are working on a concept for bug bounties and they are not currently available.
 
 This process can take some time. Every effort will be made to handle the bug as quickly and thoroughly as possible. However, it's important that we follow the process described above to ensure that disclosures are handled consistently and to keep this codebase and the projects that depend on them secure.
+
+[cosmwasm]: https://github.com/CosmWasm/cosmwasm
+[cw-plus]: https://github.com/CosmWasm/cw-plus
+[cw-storage-plus]: https://github.com/CosmWasm/cw-storage-plus
+[cw-utils]: https://github.com/CosmWasm/cw-utils
+[serde-json-wasm]: https://github.com/CosmWasm/serde-json-wasm
+[rust-optimizer]: https://github.com/CosmWasm/rust-optimizer
+[wasmd]: https://github.com/CosmWasm/wasmd
+[wasmvm]: https://github.com/CosmWasm/wasmvm
