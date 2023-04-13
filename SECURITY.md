@@ -60,6 +60,13 @@ Confio uses the following disclosure process for the various CosmWasm-related re
 
 This process can take some time. Every effort will be made to handle the bug as quickly and thoroughly as possible. However, it's important that we follow the process described above to ensure that disclosures are handled consistently and to keep this codebase and the projects that depend on them secure.
 
+### Exceptions
+
+Please note that issues are considered already disclosed if there is a public patch for it or it is discussed in public (e.g. CWA-2023-001). In those cases the above process does not apply.
+An exception can be cases where the fix was well hidden and neither the fix not the public discussion reveals
+a vulnerability was patched (e.g. CWA-2022-005).
+Advisories are created and published in any case for future reference, giving credit to the people involved and the learning opportunity.
+
 [cosmwasm]: https://github.com/CosmWasm/cosmwasm
 [cw-plus]: https://github.com/CosmWasm/cw-plus
 [cw-storage-plus]: https://github.com/CosmWasm/cw-storage-plus
