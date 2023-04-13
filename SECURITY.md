@@ -19,9 +19,11 @@ This is a shared security policy for the CosmWasm stack, including the following
 
 Please report any security issues via email to security@confio.gmbh.
 
-You will receive a response from us within 2 working days. If the issue is confirmed, we will release a patch as soon as possible depending on complexity but historically within a few days.
+You will receive a response from us within 4 working days confirming that a human read your email. If you do not hear back within 1 week, feel free to send a reminder or try to notify core team members via different channels.
 
-Please avoid opening public issues on GitHub that contain information about a potential security vulnerability as this makes it difficult to reduce the impact and harm of valid security issues.
+Within a few days we try to reproduce the issue and confirm it. After that we work on a patch and a release strategy. Experience shows the later part is harder than the actual patch as we need to evaluate which versions are affected, for which versions a patch is provided, if that patch is consensus or state breaking and how users can apply the patch. This part can take a few days up to multiple weeks.
+
+Please avoid opening public issues on GitHub that contains information about a potential security vulnerability as this makes it difficult to reduce the impact and harm of valid security issues.
 
 ## Supported Versions
 
