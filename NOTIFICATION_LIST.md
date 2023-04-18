@@ -11,3 +11,4 @@ See README.md for what this is all about.
 | Provenance     | [SECURITY.md](https://github.com/provenance-io/provenance/blob/main/SECURITY.md)         |
 | Secret Network | [SECURITY.md](https://github.com/scrtlabs/SecretNetwork/blob/master/SECURITY.md)         |
 | Stargaze       | [SECURITY.md](https://github.com/public-awesome/stargaze/blob/main/SECURITY.md)          |
+| Terra          | [SECURITY.md](https://github.com/terra-money/core/blob/main/SECURITY.md)                 |
