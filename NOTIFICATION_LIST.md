@@ -5,6 +5,7 @@ See README.md for what this is all about.
 
 | Project name   | SECURITY.md                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------|
+| Aura Network   | [SECURITY.md](https://github.com/aura-nw/aura/blob/main/SECURITY.md)                             |
 | Injective      | [SECURITY.md](https://github.com/InjectiveLabs/injective-chain-releases/blob/master/SECURITY.md) |
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)                     |
 | Nym            | [SECURITY.md](https://github.com/nymtech/nym/blob/develop/SECURITY.md)                           |
