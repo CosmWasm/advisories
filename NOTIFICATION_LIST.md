@@ -5,6 +5,7 @@ See README.md for what this is all about.
 
 | Project name   | SECURITY.md                                                                                          |
 |----------------|------------------------------------------------------------------------------------------------------|
+| Archway        | [SECURITY.md](https://github.com/archway-network/archway/security/policy)                            |
 | Aura Network   | [SECURITY.md](https://github.com/aura-nw/aura/blob/main/SECURITY.md)                                 |
 | Desmos         | [SECURITY.md](https://github.com/desmos-labs/desmos/blob/master/SECURITY.md)                         |
 | Injective      | [SECURITY.md](https://github.com/InjectiveLabs/injective-chain-releases/blob/master/SECURITY.md)     |
