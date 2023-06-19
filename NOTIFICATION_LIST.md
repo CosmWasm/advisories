@@ -10,6 +10,7 @@ See README.md for what this is all about.
 | Injective      | [SECURITY.md](https://github.com/InjectiveLabs/injective-chain-releases/blob/master/SECURITY.md)     |
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)                         |
 | Migaloo        | [SECURITY.md](https://github.com/White-Whale-Defi-Platform/migaloo-chain/blob/main/docs/SECURITY.md) |
+| Neutron        | [SECURITY.md](https://github.com/neutron-org/neutron/blob/main/SECURITY.md) |
 | Nym            | [SECURITY.md](https://github.com/nymtech/nym/blob/develop/SECURITY.md)                               |
 | Persistence    | [SECURITY.md](https://github.com/persistenceOne/persistenceCore/blob/master/SECURITY.md)             |
 | Provenance     | [SECURITY.md](https://github.com/provenance-io/provenance/blob/main/SECURITY.md)                     |
