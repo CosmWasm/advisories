@@ -9,6 +9,7 @@ See README.md for what this is all about.
 | Aura Network   | [SECURITY.md](https://github.com/aura-nw/aura/blob/main/SECURITY.md)                                 |
 | Desmos         | [SECURITY.md](https://github.com/desmos-labs/desmos/blob/master/SECURITY.md)                         |
 | Injective      | [SECURITY.md](https://github.com/InjectiveLabs/injective-chain-releases/blob/master/SECURITY.md)     |
+| Jackal         | [SECURITY.md](https://github.com/JackalLabs/canine-chain/blob/master/SECURITY.md)
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)                         |
 | Migaloo        | [SECURITY.md](https://github.com/White-Whale-Defi-Platform/migaloo-chain/blob/main/docs/SECURITY.md) |
 | Neutron        | [SECURITY.md](https://github.com/neutron-org/neutron/blob/main/SECURITY.md) |
