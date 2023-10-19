@@ -27,8 +27,12 @@ Please avoid opening public issues on GitHub that contain information about a po
 
 The supported versions are described in more detail in the individual repositories. This is a summary:
 
-- [cosmwasm] 1.x
-- [wasmvm] 1.x
+- CosmWasm ([cosmwasm-\*][cosmwasm] and [wasmvm])
+  - 1.2.x ([until 2023-12-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))
+  - 1.3.x ([until 2024-03-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))
+  - 1.4.x
+  - 1.5.x
+  - 2.0.x
 - [wasmd] 1.x
 - [cw-plus], [cw-storage-plus], [cw-utils] 1.x
 

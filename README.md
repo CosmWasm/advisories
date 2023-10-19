@@ -9,12 +9,14 @@ This also does not include bugs and issues reported to us publicly via github is
 
 ## Supported projects and version
 
-- [CosmWasm](https://github.com/CosmWasm/cosmwasm)
-  - v1.0.x
-- [wasmvm](https://github.com/CosmWasm/wasmvm)
-  - v1.0.x
+- CosmWasm ([cosmwasm-\*](https://github.com/CosmWasm/cosmwasm) and [wasmvm](https://github.com/CosmWasm/wasmvm))
+  - 1.2.x ([until 2023-12-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))
+  - 1.3.x ([until 2024-03-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))
+  - 1.4.x
+  - 1.5.x
+  - 2.0.x
 - [wasmd](https://github.com/CosmWasm/wasmd)
-  - v1.0.x
+  - 1.0.x
 
 ## Criteria to get on the notification list
 
