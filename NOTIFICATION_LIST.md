@@ -7,6 +7,7 @@ See README.md for what this is all about.
 | -------------- | ---------------------------------------------------------------------------------------------------- | ----------- |
 | Archway        | [SECURITY.md](https://github.com/archway-network/archway/security/policy)                            | ✅          |
 | Aura Network   | [SECURITY.md](https://github.com/aura-nw/aura/blob/main/SECURITY.md)                                 | ✅          |
+| Comdex         | [SECURITY.md](https://github.com/comdex-official/comdex/blob/development/SECURITY.md)                | ✅          |
 | Desmos         | [SECURITY.md](https://github.com/desmos-labs/desmos/blob/master/SECURITY.md)                         | ✅          |
 | Injective      | [SECURITY.md](https://github.com/InjectiveLabs/injective-chain-releases/blob/master/SECURITY.md)     | ✅          |
 | Jackal         | [SECURITY.md](https://github.com/JackalLabs/canine-chain/blob/master/SECURITY.md)                    | ✅          |
@@ -21,7 +22,6 @@ See README.md for what this is all about.
 | Stargaze       | [SECURITY.md](https://github.com/public-awesome/stargaze/blob/main/SECURITY.md)                      | ✅          |
 | Terra          | [SECURITY.md](https://github.com/terra-money/core/blob/main/SECURITY.md)                             |             |
 | XPLA Chain     | [SECURITY.md](https://github.com/xpladev/xpla/blob/main/SECURITY.md)                                 | ✅          |
-| Comdex         | [SECURITY.md](https://github.com/comdex-official/comdex/blob/development/SECURITY.md)                | ✅          |
 
 \* email addresses are the preferred communication channel as they
 allow efficient broadcasting. Emails are always sent out first.
