@@ -19,9 +19,11 @@ This is a shared security policy for the CosmWasm stack, including the following
 
 Please report any security issues via email to security@confio.gmbh.
 
-You will receive a response from us within 2 working days. If the issue is confirmed, we will release a patch as soon as possible depending on complexity but historically within a few days.
+You will receive a response from us within 4 working days confirming that a human read your email. If you do not hear back within 1 week, feel free to send a reminder or try to notify core team members via different channels.
 
-Please avoid opening public issues on GitHub that contain information about a potential security vulnerability as this makes it difficult to reduce the impact and harm of valid security issues.
+Within a few days we try to reproduce the issue and confirm it. After that we work on a patch and a release strategy. Experience shows the later part is harder than the actual patch as we need to evaluate which versions are affected, for which versions a patch is provided, if that patch is consensus or state breaking and how users can apply the patch. This part can take a few days up to multiple weeks.
+
+Please avoid opening public issues on GitHub that contains information about a potential security vulnerability as this makes it difficult to reduce the impact and harm of valid security issues.
 
 ## Supported Versions
 
@@ -61,6 +63,13 @@ Confio uses the following disclosure process for the various CosmWasm-related re
 - Note that we are working on a concept for bug bounties and they are not currently available.
 
 This process can take some time. Every effort will be made to handle the bug as quickly and thoroughly as possible. However, it's important that we follow the process described above to ensure that disclosures are handled consistently and to keep this codebase and the projects that depend on them secure.
+
+### Exceptions
+
+Please note that issues are considered already disclosed if there is a public patch for it or it is discussed in public (e.g. CWA-2023-001). In those cases the above process does not apply.
+An exception can be cases where the fix was well hidden and neither the fix not the public discussion reveals
+a vulnerability was patched (e.g. CWA-2022-005).
+Advisories are created and published in any case for future reference, giving credit to the people involved and the learning opportunity.
 
 [cosmwasm]: https://github.com/CosmWasm/cosmwasm
 [cw-plus]: https://github.com/CosmWasm/cw-plus
