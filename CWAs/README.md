@@ -2,6 +2,7 @@
 
 ## 2023
 
+- [CWA-2023-004][CWA-2023-004]
 - [CWA-2023-003: Inefficient ListChannels query implementation][CWA-2023-003]
 - [CWA-2023-002: Stack overflow crash (Codename Cherry)][CWA-2023-002]
 - [CWA-2023-001: Potential overflow in cache statistics][CWA-2023-001]
