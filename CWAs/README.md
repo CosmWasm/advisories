@@ -1,5 +1,11 @@
 # Index of CosmWasm Advisories
 
+## 2024
+
+- [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001]
+
+[CWA-2024-001]: ./CWA-2024-001.md
+
 ## 2023
 
 - [CWA-2023-004][CWA-2023-004]
