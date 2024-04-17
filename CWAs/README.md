@@ -2,10 +2,12 @@
 
 ## 2024
 
-| Severity[^1] | Scope[^2] | ID                                                              |
-| ------------ | --------- | --------------------------------------------------------------- |
-| Low          | Contracts | [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001] |
+| Severity[^1] | Scope[^2] | ID                                                                 |
+| ------------ | --------- | ------------------------------------------------------------------ |
+| Medium       | Contracts | [CWA-2024-002: Arithmetic overflows in cosmwasm-std][CWA-2024-002] |
+| Low          | Contracts | [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001]    |
 
+[CWA-2024-002]: ./CWA-2024-002.md
 [CWA-2024-001]: ./CWA-2024-001.md
 
 ## 2023
