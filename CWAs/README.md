@@ -4,13 +4,14 @@
 
 | Severity[^1] | Scope[^2] | ID                                                                 | Aliases                                    |
 | ------------ | --------- | ------------------------------------------------------------------ | ------------------------------------------ |
-| Medium       | Contracts | [CWA-2024-002: Arithmetic overflows in cosmwasm-std][CWA-2024-002] | [RUSTSEC-2024-0338]                        |
+| Medium       | Contracts | [CWA-2024-002: Arithmetic overflows in cosmwasm-std][CWA-2024-002] | [RUSTSEC-2024-0338], [GHSA-8724-5xmm-w5xq] |
 | Low          | Contracts | [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001]    | [RUSTSEC-2024-0012], [GHSA-rr69-rxr6-8qwf] |
 
 [CWA-2024-002]: ./CWA-2024-002.md
 [CWA-2024-001]: ./CWA-2024-001.md
 [RUSTSEC-2024-0338]: https://rustsec.org/advisories/RUSTSEC-2024-0338.html
 [RUSTSEC-2024-0012]: https://rustsec.org/advisories/RUSTSEC-2024-0012.html
+[GHSA-8724-5xmm-w5xq]: https://github.com/advisories/GHSA-8724-5xmm-w5xq
 [GHSA-rr69-rxr6-8qwf]: https://github.com/advisories/GHSA-rr69-rxr6-8qwf
 
 ## 2023
