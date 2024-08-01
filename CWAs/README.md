@@ -57,4 +57,5 @@
 [CWA-2021-001]: ./CWA-2021-001.md
 
 [^1]: following Amulet's Severity Classification Framework: https://github.com/interchainio/security/blob/e0227a1fb4059144aab4f6003eeee7f09912db3a/resources/CLASSIFICATION_MATRIX.md
+
 [^2]: Contracts: everything compiled into Wasm (comswasm-std, other contract libraries); VM: everything executing contracts (cosmwasm-vm, wasmvm); x/wasm: integration of the VM into the chain (wasmd)
