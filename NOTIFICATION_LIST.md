@@ -24,6 +24,7 @@ See README.md for what this is all about.
 | Secret Network | [SECURITY.md](https://github.com/scrtlabs/SecretNetwork/blob/master/SECURITY.md)                     | ✅          |
 | SEDA           | [SECURITY.md](https://github.com/sedaprotocol/seda-chain/blob/main/SECURITY.md)                      | ✅          |
 | Stargaze       | [SECURITY.md](https://github.com/public-awesome/stargaze/blob/main/SECURITY.md)                      | ✅          |
+| Stride         | [SECURITY.md](https://github.com/Stride-Labs/stride/blob/main/SECURITY.md)                           | ✅          |
 | Terra          | [SECURITY.md](https://github.com/terra-money/core/blob/main/SECURITY.md)                             |             |
 | XPLA Chain     | [SECURITY.md](https://github.com/xpladev/xpla/blob/main/SECURITY.md)                                 | ✅          |
 
