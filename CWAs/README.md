@@ -6,8 +6,8 @@
 | ------------ | --------- | ----------------------------------------------------------------------- | ------------------------------------------ |
 | Medium       | x/wasm    | [CWA-2024-006: Non-deterministic module_query_safe query][CWA-2024-006] |                                            |
 | High         | x/wasm    | [CWA-2024-005: Stackoverflow in wasmd][CWA-2024-005]                    |                                            |
-| Medium       | VM        | [CWA-2024-004: Gas mispricing in cosmwasm-vm][CWA-2024-004]             |                                            |
-| Low          | x/wasm    | [CWA-2024-003: Large address count in ValidateBasic][CWA-2024-003]      |                                            |
+| Medium       | VM        | [CWA-2024-004: Gas mispricing in cosmwasm-vm][CWA-2024-004]             | [RUSTSEC-2024-0361], [GHSA-rg2q-2jh9-447q] |
+| Low          | x/wasm    | [CWA-2024-003: Large address count in ValidateBasic][CWA-2024-003]      | [GHSA-m3rh-cvr5-x6q4]                      |
 | Medium       | Contracts | [CWA-2024-002: Arithmetic overflows in cosmwasm-std][CWA-2024-002]      | [RUSTSEC-2024-0338], [GHSA-8724-5xmm-w5xq] |
 | Low          | Contracts | [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001]         | [RUSTSEC-2024-0012], [GHSA-rr69-rxr6-8qwf] |
 
@@ -19,8 +19,11 @@
 [CWA-2024-001]: ./CWA-2024-001.md
 [RUSTSEC-2024-0338]: https://rustsec.org/advisories/RUSTSEC-2024-0338.html
 [RUSTSEC-2024-0012]: https://rustsec.org/advisories/RUSTSEC-2024-0012.html
+[RUSTSEC-2024-0361]: https://rustsec.org/advisories/RUSTSEC-2024-0361.html
 [GHSA-8724-5xmm-w5xq]: https://github.com/advisories/GHSA-8724-5xmm-w5xq
 [GHSA-rr69-rxr6-8qwf]: https://github.com/advisories/GHSA-rr69-rxr6-8qwf
+[GHSA-rg2q-2jh9-447q]: https://github.com/advisories/GHSA-rg2q-2jh9-447q
+[GHSA-m3rh-cvr5-x6q4]: https://github.com/advisories/GHSA-m3rh-cvr5-x6q4
 
 ## 2023
 
