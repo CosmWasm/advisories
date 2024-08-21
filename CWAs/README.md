@@ -2,13 +2,17 @@
 
 ## 2024
 
-| Severity[^1] | Scope[^2] | ID                                                                 | Aliases                                    |
-| ------------ | --------- | ------------------------------------------------------------------ | ------------------------------------------ |
-| Medium       | VM        | [CWA-2024-004: Gas mispricing in cosmwasm-vm][CWA-2024-004]        |                                            |
-| Low          | x/wasm    | [CWA-2024-003: Large address count in ValidateBasic][CWA-2024-003] |                                            |
-| Medium       | Contracts | [CWA-2024-002: Arithmetic overflows in cosmwasm-std][CWA-2024-002] | [RUSTSEC-2024-0338], [GHSA-8724-5xmm-w5xq] |
-| Low          | Contracts | [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001]    | [RUSTSEC-2024-0012], [GHSA-rr69-rxr6-8qwf] |
+| Severity[^1] | Scope[^2] | ID                                                                      | Aliases                                    |
+| ------------ | --------- | ----------------------------------------------------------------------- | ------------------------------------------ |
+| Medium       | x/wasm    | [CWA-2024-006: Non-deterministic module_query_safe query][CWA-2024-006] |                                            |
+| High         | x/wasm    | [CWA-2024-005: Stackoverflow in wasmd][CWA-2024-005]                    |                                            |
+| Medium       | VM        | [CWA-2024-004: Gas mispricing in cosmwasm-vm][CWA-2024-004]             |                                            |
+| Low          | x/wasm    | [CWA-2024-003: Large address count in ValidateBasic][CWA-2024-003]      |                                            |
+| Medium       | Contracts | [CWA-2024-002: Arithmetic overflows in cosmwasm-std][CWA-2024-002]      | [RUSTSEC-2024-0338], [GHSA-8724-5xmm-w5xq] |
+| Low          | Contracts | [CWA-2024-001: Stack overflow in serde-json-wasm][CWA-2024-001]         | [RUSTSEC-2024-0012], [GHSA-rr69-rxr6-8qwf] |
 
+[CWA-2024-006]: ./CWA-2024-006.md
+[CWA-2024-005]: ./CWA-2024-005.md
 [CWA-2024-004]: ./CWA-2024-004.md
 [CWA-2024-003]: ./CWA-2024-003.md
 [CWA-2024-002]: ./CWA-2024-002.md
