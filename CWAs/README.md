@@ -24,8 +24,8 @@
 [GHSA-rr69-rxr6-8qwf]: https://github.com/advisories/GHSA-rr69-rxr6-8qwf
 [GHSA-rg2q-2jh9-447q]: https://github.com/advisories/GHSA-rg2q-2jh9-447q
 [GHSA-m3rh-cvr5-x6q4]: https://github.com/advisories/GHSA-m3rh-cvr5-x6q4
-[GHSA-g8w7-7vgg-x7xg]: https://github.com/CosmWasm/wasmd/security/advisories/GHSA-g8w7-7vgg-x7xg
-[GHSA-fpgj-cr28-fvpx]: https://github.com/CosmWasm/wasmd/security/advisories/GHSA-fpgj-cr28-fvpx
+[GHSA-g8w7-7vgg-x7xg]: https://github.com/advisories/GHSA-g8w7-7vgg-x7xg
+[GHSA-fpgj-cr28-fvpx]: https://github.com/advisories/GHSA-fpgj-cr28-fvpx
 
 ## 2023
 
