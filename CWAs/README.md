@@ -6,7 +6,7 @@
 | ------------ | --------- | ----------------------------------------------------------------------- | ------------------------------------------ |
 | Low          | VM        | [CWA-2024-009][CWA-2024-009]                                            |
 | Medium       | VM        | [CWA-2024-008][CWA-2024-008]                                            |                                            |
-| Medium       | VM        | [CWA-2024-007][CWA-2024-007]                                            |                                            |
+| Medium       | VM        | [CWA-2024-007: Incorrect metering][CWA-2024-007]                        | [GHSA-2q97-m5rc-p3gp]                      |
 | Medium       | x/wasm    | [CWA-2024-006: Non-deterministic module_query_safe query][CWA-2024-006] | [GHSA-fpgj-cr28-fvpx]                      |
 | High         | x/wasm    | [CWA-2024-005: Stackoverflow in wasmd][CWA-2024-005]                    | [GHSA-g8w7-7vgg-x7xg]                      |
 | Medium       | VM        | [CWA-2024-004: Gas mispricing in cosmwasm-vm][CWA-2024-004]             | [RUSTSEC-2024-0361], [GHSA-rg2q-2jh9-447q] |
@@ -32,6 +32,7 @@
 [GHSA-m3rh-cvr5-x6q4]: https://github.com/advisories/GHSA-m3rh-cvr5-x6q4
 [GHSA-g8w7-7vgg-x7xg]: https://github.com/advisories/GHSA-g8w7-7vgg-x7xg
 [GHSA-fpgj-cr28-fvpx]: https://github.com/advisories/GHSA-fpgj-cr28-fvpx
+[GHSA-2q97-m5rc-p3gp]: https://github.com/CosmWasm/wasmvm/security/advisories/GHSA-2q97-m5rc-p3gp
 
 ## 2023
 
