@@ -4,7 +4,7 @@
 
 | Severity[^1] | Scope[^2] | ID                                                                           | Aliases                                    |
 | ------------ | --------- | ---------------------------------------------------------------------------- | ------------------------------------------ |
-| Low          | VM        | [CWA-2024-009][CWA-2024-009]                                                 |
+| Low          | VM        | [CWA-2024-009][CWA-2024-009]                                                 | [GHSA-vmg2-r3xv-r3xf]                      |
 | Medium       | VM        | [CWA-2024-008: Panic in wasmvm can slow down block production][CWA-2024-008] | [GHSA-vmqh-5232-v43r]                      |
 | Medium       | VM        | [CWA-2024-007: Incorrect metering][CWA-2024-007]                             | [GHSA-2q97-m5rc-p3gp]                      |
 | Medium       | x/wasm    | [CWA-2024-006: Non-deterministic module_query_safe query][CWA-2024-006]      | [GHSA-fpgj-cr28-fvpx]                      |
@@ -34,6 +34,7 @@
 [GHSA-fpgj-cr28-fvpx]: https://github.com/advisories/GHSA-fpgj-cr28-fvpx
 [GHSA-2q97-m5rc-p3gp]: https://github.com/CosmWasm/wasmvm/security/advisories/GHSA-2q97-m5rc-p3gp
 [GHSA-vmqh-5232-v43r]: https://github.com/CosmWasm/wasmvm/security/advisories/GHSA-vmqh-5232-v43r
+[GHSA-vmg2-r3xv-r3xf]: https://github.com/CosmWasm/wasmd/security/advisories/GHSA-vmg2-r3xv-r3xf
 
 ## 2023
 
