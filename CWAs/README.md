@@ -1,5 +1,15 @@
 # Index of CosmWasm Advisories
 
+## 2025
+
+| Severity[^1] | Scope[^2] | ID                           | Aliases |
+| ------------ | --------- | ---------------------------- | ------- |
+| Medium       | VM        | [CWA-2025-002][CWA-2025-002] |         |
+| Medium       | VM        | [CWA-2025-001][CWA-2025-001] |         |
+
+[CWA-2025-002]: ./CWA-2025-002.md
+[CWA-2025-001]: ./CWA-2025-001.md
+
 ## 2024
 
 | Severity[^1] | Scope[^2] | ID                                                                           | Aliases                                    |
