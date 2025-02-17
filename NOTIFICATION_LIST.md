@@ -13,6 +13,7 @@ See README.md for what this is all about.
 | Coreum         | [SECURITY.md](https://github.com/CoreumFoundation/coreum/blob/master/SECURITY.md)                    | ✅          |
 | Cosmos Hub     | [SECURITY.md](https://github.com/cosmos/gaia/blob/main/SECURITY.md)                                  | ✅          |
 | Desmos         | [SECURITY.md](https://github.com/desmos-labs/desmos/blob/master/SECURITY.md)                         | ✅          |
+| Firmachain     | [SECURITY.md](https://github.com/FirmaChain/firmachain/blob/master/SECURITY.md)                      | ✅          |
 | Injective      | [SECURITY.md](https://github.com/InjectiveLabs/injective-chain-releases/blob/master/SECURITY.md)     | ✅          |
 | Jackal         | [SECURITY.md](https://github.com/JackalLabs/canine-chain/blob/master/SECURITY.md)                    | ✅          |
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)                         | ✅          |
