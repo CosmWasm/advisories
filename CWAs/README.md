@@ -2,11 +2,13 @@
 
 ## 2025
 
-| Severity[^1] | Scope[^2] | ID                                                                                    | Aliases               |
-| ------------ | --------- | ------------------------------------------------------------------------------------- | --------------------- |
-| Medium       | VM        | [CWA-2025-002: Malicious smart contract can slow down block production][CWA-2025-002] | [GHSA-mx2j-7cmv-353c] |
-| Medium       | VM        | [CWA-2025-001: Malicious smart contract can crash the chain][CWA-2025-001]            | [GHSA-23qp-3c2m-xx6w] |
+| Severity[^1] | Scope[^2] | ID                                                                                       | Aliases               |
+| ------------ | --------- | ---------------------------------------------------------------------------------------- | --------------------- |
+| Low          | VM        | [CWA-2025-003: Smart contract can cause consensus failures for some nodes][CWA-2025-003] |                       |
+| Medium       | VM        | [CWA-2025-002: Malicious smart contract can slow down block production][CWA-2025-002]    | [GHSA-mx2j-7cmv-353c] |
+| Medium       | VM        | [CWA-2025-001: Malicious smart contract can crash the chain][CWA-2025-001]               | [GHSA-23qp-3c2m-xx6w] |
 
+[CWA-2025-003]: ./CWA-2025-003.md
 [CWA-2025-002]: ./CWA-2025-002.md
 [CWA-2025-001]: ./CWA-2025-001.md
 [GHSA-mx2j-7cmv-353c]: https://github.com/CosmWasm/wasmvm/security/advisories/GHSA-mx2j-7cmv-353c
@@ -91,5 +93,4 @@
 [CWA-2021-001]: ./CWA-2021-001.md
 
 [^1]: following Amulet's Severity Classification Framework ACMv1: https://github.com/interchainio/security/blob/e0227a1fb4059144aab4f6003eeee7f09912db3a/resources/CLASSIFICATION_MATRIX.md
-
 [^2]: Contracts: everything compiled into Wasm (comswasm-std, other contract libraries); VM: everything executing contracts (cosmwasm-vm, wasmvm); x/wasm: integration of the VM into the chain (wasmd)
