@@ -13,9 +13,10 @@ This also does not include bugs and issues reported to us publicly via github is
   - ~1.2.x ([until 2023-12-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))~
   - ~1.3.x ([until 2024-03-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))~
   - ~1.4.x ([until 2024-07-31](https://medium.com/cosmwasm/cosmwasm-1-5-becomes-long-term-support-lts-version-16632bf06f2a))~
-  - 1.5.x ([until 2025-01-31](https://medium.com/cosmwasm/cosmwasm-1-5-becomes-long-term-support-lts-version-16632bf06f2a))
-  - 2.0.x
-  - 2.1.x
+  - 1.5.x ([until 2025-04-30](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))
+  - ~2.0.x ([until 2025-01-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
+  - ~2.1.x ([until 2025-01-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
+  - 2.2.x
 - [wasmd](https://github.com/CosmWasm/wasmd)
   - 1.0.x
 
