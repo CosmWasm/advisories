@@ -2,11 +2,13 @@
 
 ## 2025
 
-| Severity[^1] | Scope[^2] | ID                                                                                    | Aliases               |
-| ------------ | --------- | ------------------------------------------------------------------------------------- | --------------------- |
-| Medium       | VM        | [CWA-2025-002: Malicious smart contract can slow down block production][CWA-2025-002] | [GHSA-mx2j-7cmv-353c] |
-| Medium       | VM        | [CWA-2025-001: Malicious smart contract can crash the chain][CWA-2025-001]            | [GHSA-23qp-3c2m-xx6w] |
+| Severity[^1] | Scope[^2] | ID                                                                                       | Aliases               |
+| ------------ | --------- | ---------------------------------------------------------------------------------------- | --------------------- |
+| Low          | VM        | [CWA-2025-003: Smart contract can cause consensus failures for some nodes][CWA-2025-003] |                       |
+| Medium       | VM        | [CWA-2025-002: Malicious smart contract can slow down block production][CWA-2025-002]    | [GHSA-mx2j-7cmv-353c] |
+| Medium       | VM        | [CWA-2025-001: Malicious smart contract can crash the chain][CWA-2025-001]               | [GHSA-23qp-3c2m-xx6w] |
 
+[CWA-2025-003]: ./CWA-2025-003.md
 [CWA-2025-002]: ./CWA-2025-002.md
 [CWA-2025-001]: ./CWA-2025-001.md
 [GHSA-mx2j-7cmv-353c]: https://github.com/CosmWasm/wasmvm/security/advisories/GHSA-mx2j-7cmv-353c
