@@ -1,6 +1,6 @@
 # Editors
 .vscode/
-.idea
+.idea/
 
 # OS
 .DS_Store
