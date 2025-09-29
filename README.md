@@ -33,7 +33,7 @@ in order to maintain their own software stack.
   - ~2.1.x ([until 2025-01-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
   - 2.2.x ([until 2025-12-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))
 - [wasmd]
-  - 1.0.x
+  - 0.6x.x
 - [cw-plus], [cw-storage-plus], [cw-utils]
   - 2.2.x
 
