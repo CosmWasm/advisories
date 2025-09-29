@@ -11,11 +11,13 @@ In order to help with resolving any issues on production system, we are maintain
 this advisories project to link to authorized communication channels of CosmWasm blockchains.
 Linked chains will be informed about **critical issues** reported to us directly
 on **non-public channels** before opening an issue on our related projects.
+
 Nevertheless, providing this information should not prevent anyone from working
 on a fix nor block a patch roll out. This also does not include bugs and issues reported
-to us publicly via GitHub issues or other official channels. Chains using our projects
-are encouraged to **watch the GitHub repositories and official channels** in order
-to maintain their own software stack.
+to us publicly via GitHub issues or other official channels.
+
+Chains using our projects are encouraged to **watch the GitHub repositories and official channels**
+in order to maintain their own software stack.
 
 ## Supported projects and version
 
