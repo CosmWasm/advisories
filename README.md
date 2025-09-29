@@ -1,6 +1,9 @@
 [cosmwasm]: https://github.com/CosmWasm/cosmwasm
 [wasmvm]: https://github.com/CosmWasm/wasmvm
 [wasmd]: https://github.com/CosmWasm/wasmd
+[cw-plus]: https://github.com/CosmWasm/cw-plus
+[cw-storage-plus]: https://github.com/CosmWasm/cw-storage-plus
+[cw-utils]: https://github.com/CosmWasm/cw-utils
 
 # CosmWasm Advisories
 
@@ -21,7 +24,7 @@ in order to maintain their own software stack.
 
 ## Supported projects and version
 
-- CosmWasm ([cosmwasm-\*][cosmwasm] and [wasmvm])
+- CosmWasm ([cosmwasm-\*][cosmwasm], [wasmvm])
   - ~1.2.x ([until 2023-12-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))~
   - ~1.3.x ([until 2024-03-31](https://medium.com/cosmwasm/eol-for-cosmwasm-1-0-1-3-22df4b34b13c))~
   - ~1.4.x ([until 2024-07-31](https://medium.com/cosmwasm/cosmwasm-1-5-becomes-long-term-support-lts-version-16632bf06f2a))~
@@ -31,6 +34,8 @@ in order to maintain their own software stack.
   - 2.2.x ([until 2025-12-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))
 - [wasmd]
   - 1.0.x
+- [cw-plus], [cw-storage-plus], [cw-utils]
+  - 2.2.x
 
 ## Criteria to get on the notification list
 
