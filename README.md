@@ -4,11 +4,11 @@
 
 # CosmWasm Advisories
 
-We work in the best intent with a public review process but must accept
-that software can contain bugs and therefore CosmWasm code, too.
+We are working in the best intent with a public review process but have to accept
+that software may still contain bugs, including in CosmWasm code.
 
 In order to help with resolving any issues on production system, we are maintaining
-the advisories project to link to authorized communication channels of CosmWasm blockchains.
+this advisories project to link to authorized communication channels of CosmWasm blockchains.
 Linked chains will be informed about **critical issues** reported to us directly
 on **non-public channels** before opening an issue on our related projects.
 Nevertheless, providing this information should not prevent anyone from working
