@@ -102,6 +102,7 @@
 [Severity]: #Severity
 [Scope]: #Scope
 
+---
 
 ### Severity
 
