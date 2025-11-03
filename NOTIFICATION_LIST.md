@@ -1,4 +1,4 @@
-# Notification List for CosmWasm Advisories
+# Notification list for CosmWasm advisories
 
 Add your project here via a PR if you want to get notified.
 See [README.md](./README.md) for what this is all about.
