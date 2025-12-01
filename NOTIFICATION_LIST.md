@@ -34,5 +34,3 @@ See [README.md](./README.md) for what this is all about.
 
 \* email addresses are the preferred communication channel as they
 allow efficient broadcasting. Emails are always sent out first.
-
-[Terra is winding down]: https://www.terra.money/bugcrowd
