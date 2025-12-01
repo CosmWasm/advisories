@@ -29,9 +29,8 @@ See [README.md](./README.md) for what this is all about.
 | Stargaze       | [SECURITY.md](https://github.com/public-awesome/stargaze/blob/main/SECURITY.md)                      |      ✅      |                         |
 | Stride         | [SECURITY.md](https://github.com/Stride-Labs/stride/blob/main/SECURITY.md)                           |      ✅      |                         |
 | Terra          | [SECURITY.md](https://github.com/terra-money/core/blob/main/SECURITY.md)                             |      ✅      |                         |
+| Xion           | [SECURITY.md](https://github.com/burnt-labs/xion/blob/release/v25/SECURITY.md)                       |      ✅      |                         |
 | XPLA Chain     | [SECURITY.md](https://github.com/xpladev/xpla/blob/main/SECURITY.md)                                 |      ✅      |                         |
 
 \* email addresses are the preferred communication channel as they
 allow efficient broadcasting. Emails are always sent out first.
-
-[Terra is winding down]: https://www.terra.money/bugcrowd
