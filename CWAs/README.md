@@ -4,6 +4,7 @@
 
 | [Severity] | [Scope] | ID                                                                                                  | Aliases               |
 |------------|---------|-----------------------------------------------------------------------------------------------------|-----------------------|
+| Medium     | x/wasm  | [CWA-2025-007: Unbounded reply recursion causing stack overflow][CWA-2025-007]                      |                       |
 | High       | x/wasm  | [CWA-2025-006: Improper error handling may lead to IBC channel opening despite error][CWA-2025-006] |                       |
 | Medium     | x/wasm  | [CWA-2025-005: Missing contract setup cost for IBC entrypoints][CWA-2025-005]                       |                       |
 | Low        | x/wasm  | [CWA-2025-004: Sub-context gas not consumed on non-OutOfGas panics][CWA-2025-004]                   |                       |
@@ -11,6 +12,7 @@
 | Medium     | VM      | [CWA-2025-002: Malicious smart contract can slow down block production][CWA-2025-002]               | [GHSA-mx2j-7cmv-353c] |
 | Medium     | VM      | [CWA-2025-001: Malicious smart contract can crash the chain][CWA-2025-001]                          | [GHSA-23qp-3c2m-xx6w] |
 
+[CWA-2025-007]: ./CWA-2025-007.md
 [CWA-2025-006]: ./CWA-2025-006.md
 [CWA-2025-005]: ./CWA-2025-005.md
 [CWA-2025-004]: ./CWA-2025-004.md
