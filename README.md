@@ -31,12 +31,12 @@ in order to maintain their own software stack.
   - ~1.5.x ([until 2025-04-30](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
   - ~2.0.x ([until 2025-01-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
   - ~2.1.x ([until 2025-01-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
-  - 2.2.x ([until 2026-06-30](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))
-  - 2.3.x ([until 2026-06-30](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))
+  - ~2.2.x ([until 2026-05-31](https://medium.com/cosmwasm/cosmwasm-2-2-becomes-long-term-support-lts-version-7fdd6a507485))~
+  - 2.3.x (until 2026-09-30)
   - 3.0.x (until 2026-12-31)
 - [wasmd]
-  - 0.54.x
   - 0.6x.x
+  - 0.7x.x
 - [cw-plus], [cw-storage-plus], [cw-utils]
   - 2.2.x
 
