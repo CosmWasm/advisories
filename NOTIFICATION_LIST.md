@@ -19,6 +19,7 @@ See [README.md](./README.md) for what this is all about.
 | Juno           | [SECURITY.md](https://github.com/CosmosContracts/juno/blob/main/SECURITY.md)                         |      ✅      |                         |
 | Migaloo        | [SECURITY.md](https://github.com/White-Whale-Defi-Platform/migaloo-chain/blob/main/docs/SECURITY.md) |      ❌      | Paused development      |
 | Neutron        | [SECURITY.md](https://github.com/neutron-org/neutron/blob/main/SECURITY.md)                          |      ✅      |                         |
+| Nolus          | [SECURITY.md](https://github.com/nolus-protocol/nolus-core/blob/main/SECURITY.md)                    |      ✅      |                         |
 | Nym            | [SECURITY.md](https://github.com/nymtech/nym/blob/develop/SECURITY.md)                               |      ✅      |                         |
 | Osmosis        | [SECURITY.md](https://github.com/osmosis-labs/osmosis/blob/main/SECURITY.md)                         |      ✅      |                         |
 | Persistence    | [SECURITY.md](https://github.com/persistenceOne/persistenceCore/blob/master/SECURITY.md)             |      ✅      |                         |
