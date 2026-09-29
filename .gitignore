@@ -1,6 +1,2 @@
-# Editors
-.vscode/
 .idea/
-
-# OS
 .DS_Store
