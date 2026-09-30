@@ -8,7 +8,7 @@
 | ?          | ?       | [CWA-2026-005: (tbd)][CWA-2026-005]                                            |         |
 | ?          | ?       | [CWA-2026-004: (tbd)][CWA-2026-004]                                            |         |
 | ?          | ?       | [CWA-2026-003: (tbd)][CWA-2026-003]                                            |         |
-| ?          | ?       | [CWA-2026-002: (tbd)][CWA-2026-002]                                            |         |
+| Critical   | x/wasm  | [CWA-2026-002: Malicious balance operations][CWA-2026-002]                     |         |
 | Medium     | x/wasm  | [CWA-2026-001: Node memory saturation][CWA-2026-001]                           |         |
 
 [CWA-2026-006]: ./CWA-2026-006.md
