@@ -2,14 +2,14 @@
 
 ## 2026
 
-| [Severity] | [Scope] | ID                                                                             | Aliases |
-|------------|---------|--------------------------------------------------------------------------------|---------|
-| Critical   | VM      | [CWA-2026-006: Sandbox escape in the Wasmer Singlepass compiler][CWA-2026-006] |         |
-| ?          | ?       | [CWA-2026-005: (tbd)][CWA-2026-005]                                            |         |
-| Low        | VM      | [CWA-2026-004: Chained overflows allow to bypass gas limits][CWA-2026-004]     |         |
-| Medium     | x/wasm  | [CWA-2026-003: Delayed block production][CWA-2026-003]                         |         |
-| Critical   | x/wasm  | [CWA-2026-002: Malicious balance operations][CWA-2026-002]                     |         |
-| Medium     | x/wasm  | [CWA-2026-001: Node memory saturation][CWA-2026-001]                           |         |
+| [Severity] | [Scope] | ID                                                                                         | Aliases |
+|------------|---------|--------------------------------------------------------------------------------------------|---------|
+| Critical   | VM      | [CWA-2026-006: Sandbox escape in the Wasmer Singlepass compiler][CWA-2026-006]             |         |
+| High       | VM      | [CWA-2026-005: Large number of locals in Wasm functions may stall the chain][CWA-2026-005] |         |
+| Low        | VM      | [CWA-2026-004: Chained overflows allow to bypass gas limits][CWA-2026-004]                 |         |
+| Medium     | x/wasm  | [CWA-2026-003: Delayed block production][CWA-2026-003]                                     |         |
+| Critical   | x/wasm  | [CWA-2026-002: Malicious balance operations][CWA-2026-002]                                 |         |
+| Medium     | x/wasm  | [CWA-2026-001: Node memory saturation][CWA-2026-001]                                       |         |
 
 [CWA-2026-006]: ./CWA-2026-006.md
 [CWA-2026-005]: ./CWA-2026-005.md
