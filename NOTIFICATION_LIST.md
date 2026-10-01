@@ -9,6 +9,7 @@ See [README.md](./README.md) for what this is all about.
 | Aura Network   | [SECURITY.md](https://github.com/aura-nw/aura/blob/main/SECURITY.md)                                 |     ✅      |                    |
 | Axelar Network | [SECURITY.md](https://github.com/axelarnetwork/axelar-core/blob/main/SECURITY.md)                    |     ✅      |                    |
 | BabylonChain   | [SECURITY.md](https://github.com/babylonlabs-io/babylon/blob/main/SECURITY.md)                       |     ✅      |                    |
+| Chihuahua      | [SECURITY.md](https://github.com/ChihuahuaChain/chihuahua/blob/main/SECURITY.md)                     |     ✅      |                    |
 | Comdex         | [SECURITY.md](https://github.com/comdex-official/comdex/blob/development/SECURITY.md)                |     ✅      |                    |
 | Coreum         | [SECURITY.md](https://github.com/CoreumFoundation/coreum/blob/master/SECURITY.md)                    |     ✅      |                    |
 | Cosmos Hub     | [SECURITY.md](https://github.com/cosmos/gaia/blob/main/SECURITY.md)                                  |     ✅      |                    |
